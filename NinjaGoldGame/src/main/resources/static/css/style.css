@@ -1,0 +1,22 @@
+.styleTest{
+	color:teal;
+}
+
+.formSize{
+	width:fit-content;
+	height:fit-content;
+	padding: 10px;
+	margin-bottom:10px;
+	border: solid black 2px;
+	
+}
+
+.flex{
+	display: flex;
+	gap: 30px;
+	justify-content: center;
+}
+
+.active{
+	margin: 0 auto;
+}
